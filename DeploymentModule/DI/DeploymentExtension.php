@@ -11,7 +11,7 @@
 
 namespace DeploymentModule\DI;
 
-use Nette\Config\CompilerExtension;
+use Nette\DI\CompilerExtension;
 
 /**
  * @author Josef Kříž <pepakriz@gmail.com>
